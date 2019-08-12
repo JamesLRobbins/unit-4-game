@@ -1,0 +1,63 @@
+body {
+    background-image: url("../images/fresh_snow\ 2/fresh_snow.png");
+
+
+}
+
+h1 {
+    padding: 20px 20px;
+    background-color: orange;
+    color: white;
+    margin-left: 10px;
+    
+}
+
+.instructions {
+    background-color: tan;
+    margin-left: 25px;
+    
+}
+
+img {
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: white;
+    
+   
+}
+
+#win-num {
+    background-color: green;
+    margin-left: 25px;
+    margin-top: 10px;
+    padding: 30px 20px;
+    font-size: 30px;
+
+}
+
+.win-loss {
+    background-color: turquoise;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+.total, #score {
+    background-color: darkcyan;
+    color: white;
+    margin-left: 25px;
+    font-weight: bold;
+}
+
+.total {
+    margin-top: 10px;
+}
+
+#score {
+    margin-top: 15px;
+    padding: 50px 20px;
+    font-size: 30px;
+    
+}
